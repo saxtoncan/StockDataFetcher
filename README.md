@@ -6,7 +6,7 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 2. Install the necessary libraries listed in the requirements.txt file.
 3. To use the code, first download the .py (python) file. Move this file into a folder somewhere on your computer. You can rename this if you wish, keep it simple.
 4. Now open a terminal in that directory, instructions on how to do so are listed below. 
-5. Once the directory has been established in the terminal, use "python3 filename.py" to run the program.
+5. Once the directory has been established in the terminal, use "python3 whatyounamedit.py" to run the program.
 6. If any library has not been installed an error will occur and it will tell you module not found. Simply download what the message says is missing.
 7. The rest is fairly self-explanatory. The section below will sum up exactly what this code does and is used for. 
 
