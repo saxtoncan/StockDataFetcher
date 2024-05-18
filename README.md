@@ -6,5 +6,6 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 2. Install the necessary libraries listed in the requirements.txt file.
 3. If any library has not been installed an error will occur and it will tell you module not found. Simply download what the message says is missing.
 
-# Libraries Required:
-See requirements.txt file for information.
+# Library information:
+1. See requirements.txt file for full list.
+2. To install run "pip3 install module", replacing module with the required library.
