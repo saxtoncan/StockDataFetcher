@@ -2,20 +2,20 @@
 A simple and easy-to-use Python code for retrieving stock data from Yahoo Finance and organizing it into a spreadsheet. This Data Fetcher tool was inspired by the functionality of the Multiple Stock Quote Downloader spreadsheet available at https://investexcel.net/multiple-stock-quote-downloader-for-excel/. While the spreadsheet works well on most Windows systems, it does not function on Mac. Therefore, I developed an alternative that performs the same tasks across different operating systems. This code includes a user-friendly GUI designed to be accessible for beginners. Additionally, it offers the feature of searching for stock tickers by company name, which was not available in the original spreadsheet method.
 
 # How-To-Setup
-1. Install Python by following this guide: [https://github.com/PackeTsar/Install-Python](https://github.com/PackeTsar/Install-Python).
 
-2. (Optional) You can install the necessary libraries listed in the `requirements.txt` file ahead of time, or you can wait and let the errors tell you what you need to install.
+1. Install Python by following this guide: [Install Python](https://github.com/PackeTsar/Install-Python).
 
-3. To use the code, first download the `.py` (Python) file found in the file list of this repository. Move this file into a folder somewhere on your computer. You can rename it if you wish; keep it simple.
+2. (Optional) You can install the necessary libraries listed in the `requirements.txt` file ahead of time, or you can wait and let the errors guide you on what you need to install. If you choose to use this method, place the `requirements.txt` file in the same folder as the `.py` file in the next step, and then run `pip3 install -r requirements.txt` in the terminal in the directory specified in step four. This command should install all the required libraries.
 
-4. Now open a terminal in that directory. Instructions on how to do so are listed in the "How to Open a Terminal" section.
+3. To use the code, first download the `.py` (Python) file found in the file list of this repository. Move this file into a folder on your computer. You can rename it if you wish, but keep it simple.
+
+4. Now open a terminal in that directory. Instructions on how to do so are provided in the "How to Open a Terminal" section.
 
 5. Once the directory has been established in the terminal, use `python3 whatyounamedit.py` to run the program.
 
-6. If any library has not been installed, an error will occur, and it will tell you which module is not found. Simply download what the message says is missing.
+6. If any library has not been installed, an error will occur, indicating which module is not found. Simply install the missing module as instructed by the error message.
 
-7. Once the code runs successfully, a GUI will pop up. Basic instructions for how to use this, can be found in the "How-To-Use" section. 
-
+7. Once the code runs successfully, a GUI will pop up. Basic instructions for how to use it can be found in the "How-To-Use" section. 
 
 # Library information:
 1. See requirements.txt file for full list.
