@@ -12,6 +12,7 @@ jnius
 keyring
 lockfile
 mock
+openpyxl
 pandas
 Pillow
 protobuf
@@ -20,6 +21,7 @@ railroad
 Sphinx
 thread
 tkcalendar
+tkinter (tk)
 tornado
 truststore
 urllib3_secure_extra
