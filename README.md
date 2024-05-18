@@ -12,4 +12,4 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 
 # Library information:
 1. See requirements.txt file for full list.
-2. To install a library run "pip3 install module", replacing module with the required library.
+2. To install a library run "pip3 install module" in the terminal, replacing module with the required library.
