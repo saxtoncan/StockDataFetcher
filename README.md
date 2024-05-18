@@ -3,7 +3,7 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 
 # How-To-Use
 1. Install python by following this guide https://github.com/PackeTsar/Install-Python . 
-2. Optionally you can install the necessary libraries listed in the requirements.txt file ahead of time. Or You can wait and let it tell you what you need in the errors as well.
+1b. (Optional) you can install the necessary libraries listed in the requirements.txt file ahead of time. Or You can wait and let it tell you what you need in the errors as well.
 3. To use the code, first download the .py (python) file found in the file list of this repository. Move this file into a folder somewhere on your computer. You can rename this if you wish, keep it simple.
 4. Now open a terminal in that directory, instructions on how to do so are listed below. 
 5. Once the directory has been established in the terminal, use "python3 whatyounamedit.py" to run the program.
