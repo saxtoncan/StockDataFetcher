@@ -61,3 +61,11 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
      ```cmd
      cd C:\path\to\your\directory
      ```
+# How-To-Use
+1. Run the code (#5 in the How-To-Setup) section.
+2. List your tickers. You can do this by simply listing the ticker symbols with a comma separating them, or alternatively you can use the search function by typing in a company name. This will pull up a window with options of which stock you mean to select, choosing the stock will add it to the list.
+3. Choose start and end date by typing the date or using the calendar. Choose the time interval you wish to use. Click fetch data.
+4. Name the excel file and click "OK". 
+
+# Results
+1. To view results, navigate to the area in which your code is found. There will be an excel sheet listed in which you named. 
