@@ -21,35 +21,43 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 1. See requirements.txt file for full list.
 2. To install a library run "pip3 install module" in the terminal, replacing module with the required library.
 
-# How to Open a Terminal
+# How to Open a Terminal 
 
 ## Linux
-1. **Using a Keyboard Shortcut**:
-   - Press `Ctrl + Alt + T` to open the terminal.
+1. **Using a File Manager**:
+   - Open your file manager and navigate to the desired directory.
+   - Right-click inside the folder.
+   - Select "Open in Terminal" from the context menu.
 
-2. **From the Applications Menu**:
-   - Open the applications menu.
-   - Search for "Terminal" or "Konsole" (depending on your desktop environment).
-   - Click on the terminal application to open it.
+2. **Using the Terminal**:
+   - Open a terminal.
+   - Use the `cd` command to change to the desired directory. For example:
+     ```bash
+     cd /path/to/your/directory
+     ```
 
 ## macOS
-1. **Using Spotlight Search**:
-   - Press `Command + Space` to open Spotlight Search.
-   - Type "Terminal" and press `Enter`.
+1. **Using Finder**:
+   - Open Finder and navigate to the desired directory.
+   - Right-click (or Control-click) inside the folder.
+   - Select "New Terminal at Folder" (you might need to enable this service first in System Preferences under "Keyboard" > "Shortcuts" > "Services").
 
-2. **From the Applications Folder**:
-   - Open Finder.
-   - Go to the "Applications" folder.
-   - Open the "Utilities" folder.
-   - Double-click on "Terminal".
+2. **Using the Terminal**:
+   - Open a terminal.
+   - Use the `cd` command to change to the desired directory. For example:
+     ```bash
+     cd /path/to/your/directory
+     ```
 
 ## Windows
-1. **Using the Run Dialog**:
-   - Press `Win + R` to open the Run dialog.
-   - Type `cmd` and press `Enter` for Command Prompt.
-   - Alternatively, type `powershell` and press `Enter` for PowerShell.
+1. **Using File Explorer**:
+   - Open File Explorer and navigate to the desired directory.
+   - Click on the address bar, type `cmd`, and press `Enter` to open Command Prompt in that directory.
+   - Alternatively, type `powershell` and press `Enter` to open PowerShell in that directory.
 
-2. **From the Start Menu**:
-   - Click on the Start menu or press the `Win` key.
-   - Type "Command Prompt" or "PowerShell".
-   - Click on the desired application to open it.
+2. **Using Command Prompt or PowerShell**:
+   - Open Command Prompt or PowerShell.
+   - Use the `cd` command to change to the desired directory. For example:
+     ```cmd
+     cd C:\path\to\your\directory
+     ```
