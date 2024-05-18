@@ -1,4 +1,4 @@
 # Stock Data Fetcher
-A simple and easy to use python code for pulling stock data from yahoo to an organized spreadsheet. 
+A simple and easy-to-use Python code for retrieving stock data from Yahoo Finance and organizing it into a spreadsheet. This Data Fetcher tool was inspired by the functionality of the Multiple Stock Quote Downloader spreadsheet available at https://investexcel.net/multiple-stock-quote-downloader-for-excel/. While the spreadsheet works well on most Windows systems, it does not function on Mac. Therefore, I developed an alternative that performs the same tasks across different operating systems. This code includes a user-friendly GUI designed to be accessible for beginners. Additionally, it offers the feature of searching for stock tickers by company name, which was not available in the original spreadsheet method.
 # Libraries required:
 See requirements.txt file for information. 
