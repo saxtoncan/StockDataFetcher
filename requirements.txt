@@ -19,8 +19,6 @@ protobuf
 pyOpenSSL
 railroad
 Sphinx
-threading
-time
 tkcalendar
 tk
 tornado
