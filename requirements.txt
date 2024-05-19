@@ -18,8 +18,10 @@ protobuf
 pyOpenSSL
 railroad
 Sphinx
-thread
+threading
+time
 tkcalendar
+tkinter
 tornado
 truststore
 yahooquery
