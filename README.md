@@ -3,7 +3,7 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 
 # How-To-Setup
 
-1. [Install Python](https://www.python.org/downloads/) 
+1. [Install Python for MacOS/Linux](https://www.python.org/downloads/). For Windows it's best to download newest version from Mocrosoft Store.
 
 2. (Optional) You can install the necessary libraries listed in the `requirements.txt` file ahead of time, or you can wait and let the errors guide you on what you need to install. If you choose to use this method, place the `requirements.txt` file in the same folder as the `.py` file in the next step, and then run `pip3 install -r requirements.txt` in the terminal in the directory specified in step four. This command should install all the required libraries.
 
