@@ -12,6 +12,7 @@ keyring
 lockfile
 mock
 numpy
+openpyxl
 pandas
 Pillow
 protobuf
@@ -21,7 +22,7 @@ Sphinx
 threading
 time
 tkcalendar
-tkinter
+tk
 tornado
 truststore
 yahooquery
