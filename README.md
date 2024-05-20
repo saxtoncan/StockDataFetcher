@@ -68,7 +68,7 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 4. Name the Excel file and click "OK".
 
 # Results
-1. To view the results, navigate to the area where your code is located. There will be an Excel sheet named as you specified. Each stock will have its own sheet of data containing the open, high, low, close, adjusted closing, and volume. In addition to the individual stock sheets, there are summary sheets with all the stocks combined for each of those categories.
+1. To view the results, navigate to the directory where your code is located. There will be an Excel sheet named as you specified. Each stock will have its own sheet of data containing the open, high, low, close, adjusted closing, and volume. In addition to the individual stock sheets, there are summary sheets with all the stocks combined for each of those categories.
 
 # Thanks
 Please let me know if you have any suggestions or upgrades you would like implemented, and I will look into them.
