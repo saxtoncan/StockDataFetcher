@@ -65,7 +65,8 @@ A simple and easy-to-use Python code for retrieving stock data from Yahoo Financ
 1. Run the code (refer to step #5 in the How-To-Setup section).
 2. List your tickers. You can do this by either listing the ticker symbols separated by commas, or by using the search function to type in a company name. This will open a window with options for the stock you intend to select; choosing the stock will add it to the list.
 3. Choose the start and end date by typing the date or using the calendar. Then, select the time interval you wish to use and click "Fetch Data".
-4. Name the Excel file and click "OK".
+4. Input an annual risk free interest rate. 
+5. Name the Excel file and click "OK".
 
 # Results
 1. To view the results, navigate to the directory where your code is located. There will be an Excel sheet named as you specified. Each stock will have its own sheet of data containing the open, high, low, close, adjusted closing, and volume. In addition to the individual stock sheets, there are summary sheets with all the stocks combined for each of those categories.
